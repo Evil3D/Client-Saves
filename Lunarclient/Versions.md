@@ -1,6 +1,7 @@
 ## so uh Hi :D
 ### basically here will be all the download links for all available versions of lunar client, the files are also gonna be here incase lunarclient deletes them.
 ### OH also, for some reason the windows ver only has a installer so.. it'll mostly be .dmg and .appimage :sob:
+### ALSO i cant even upload the uh files so.. yea rip, idrw archive all of them either
 
 ```
 https://api.lunarclientprod.com/site/download?os=windows&utm_source=badlion-site&utm_medium=download-modal&utm_campaign=direct&bl_opt_in=true
